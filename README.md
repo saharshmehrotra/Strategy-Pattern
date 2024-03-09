@@ -1,6 +1,6 @@
 # Strategy-Pattern
 
-# Duck Simulator README
+# Duck Simulator
 
 ## Overview
 This Duck Simulator program is designed to showcase different types of ducks and their behaviors using object-oriented programming principles. The program defines four types of ducks: MallardDuck, RedheadDuck, RubberDuck, and DecoyDuck, each with its own unique characteristics.
