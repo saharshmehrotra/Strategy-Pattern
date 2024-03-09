@@ -48,5 +48,5 @@ This Duck Simulator program is designed to showcase different types of ducks and
     ```
 
 ## Expected Output
-The program will display information and behaviors for each type of duck, including their display, flying, and quacking actions.
+The program will display information and behaviors for each type of duck, including their display, flying and quacking actions.
 
